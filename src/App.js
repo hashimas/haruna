@@ -6,8 +6,7 @@ function App() {
         <p>
           This is my first react app
         </p>
-        <h1>This is header one</h1>
-        <p>Hello  hsshshshshj</p>
+     
         
       </header>
     </div>
